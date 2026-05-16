@@ -1,4 +1,3 @@
-use leptos::html::ElementDescriptor;
 use leptos::prelude::*;
 use std::collections::{BTreeMap, HashSet};
 #[cfg(not(feature = "ssr"))]
