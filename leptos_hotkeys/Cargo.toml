@@ -10,7 +10,7 @@ authors = ["Matthew Kim", "Álvaro Mondéjar Rubio", "Robert Junkins", "Zak Stuc
 keywords = ["leptos", "hotkeys", "wasm"]
 
 [dependencies]
-leptos = "0.6"
+leptos = "0.8"
 log = { version = "0.4", optional = true }
 wasm-bindgen.workspace = true
 web-sys.workspace = true
