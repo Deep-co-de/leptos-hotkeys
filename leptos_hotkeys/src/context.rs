@@ -1,5 +1,5 @@
 use leptos::html::ElementDescriptor;
-use leptos::*;
+use leptos::prelude::*;
 use std::collections::{BTreeMap, HashSet};
 #[cfg(not(feature = "ssr"))]
 use wasm_bindgen::JsCast;
