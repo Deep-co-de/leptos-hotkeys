@@ -1,4 +1,4 @@
-use leptos::{html::ElementDescriptor, prelude::*};
+use leptos::prelude::*;
 
 pub fn use_hotkeys_scoped(
     #[cfg_attr(feature = "ssr", allow(unused_variables))] key_combination: String,
