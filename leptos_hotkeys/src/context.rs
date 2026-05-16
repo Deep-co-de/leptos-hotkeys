@@ -1,4 +1,4 @@
-use leptos::prelude::*;
+use leptos::{logging, prelude::*};
 use std::collections::{BTreeMap, HashSet};
 #[cfg(not(feature = "ssr"))]
 use wasm_bindgen::JsCast;
